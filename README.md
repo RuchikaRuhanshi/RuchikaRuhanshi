@@ -9,6 +9,20 @@
 
 ---
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuchikaRuhanshi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+  <img src="https://streak-stats.demolab.com?user=RuchikaRuhanshi&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchikaRuhanshi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🧠 Developer Profile
 
 + B.Tech Engineering Student
