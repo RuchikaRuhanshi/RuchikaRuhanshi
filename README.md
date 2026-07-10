@@ -1,4 +1,4 @@
-![logo](https://github.com/RuchikaRuhanshi/RuchikaRuhanshi/blob/main/GitHub%20Banner.png)
+![logo](GitHub%20Banner.png)
 <h1 align="center">⚡ Ruchika Ruhanshi ⚡</h1>
 <h3 align="center">Engineering Student • Future System Builder • Core Engineering + Software</h3>
 
