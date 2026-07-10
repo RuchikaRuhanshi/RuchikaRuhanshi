@@ -28,8 +28,36 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode,matlab,tailwind" /> </p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💻 Languages</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,js,html,css,matlab" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎨 Frontend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⚙️ Backend & Databases</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🔧 Tools & Platforms</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
