@@ -28,36 +28,34 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💻 Languages</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,js,html,css,matlab" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🎨 Frontend</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>⚙️ Backend & Databases</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔧 Tools & Platforms</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,matlab" />
+  </a>
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+  </a>
+</p>
+
+<h3 align="center">⚙️ Backend & Databases</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  </a>
+</p>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  </a>
+</p>
+
 
 ---
 
