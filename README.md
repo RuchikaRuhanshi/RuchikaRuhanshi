@@ -21,7 +21,7 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchikaRuhanshi&theme=tokyonight&hide_border=true" height="170"/> </p> 
+<img src="https://streak-stats.demolab.com/?user=RuchikaRuhanshi&theme=tokyonight&hide_border=true" height="170"/> </p> 
 </p>
 
 ---
@@ -65,17 +65,17 @@
 ---
 
 ## 🧊 3D Contribution Calendar
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuchikaRuhanshi&theme=tokyonight"/> </p>
+<p align="center"> <img src="profile-summary-card-output/tokyonight/0-profile-details.svg"/> </p>
 
 --- 
 
 ## 📊 Extra Activity Stats
 <p align="center"> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuchikaRuhanshi&theme=tokyonight"/> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuchikaRuhanshi&theme=tokyonight"/> </p> 
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg"/> 
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg"/> </p> 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuchikaRuhanshi&theme=tokyonight"/> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuchikaRuhanshi&theme=tokyonight&utcOffset=5.5"/> </p>
+<img src="profile-summary-card-output/tokyonight/3-stats.svg"/> 
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg"/> </p>
 
 ---
 
