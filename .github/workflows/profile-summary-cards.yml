@@ -1,6 +1,12 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'profile-summary-card-output/**'
+      - 'README.md'
   schedule:
     - cron: "0 0 * * *" # Runs once a day
   workflow_dispatch:
